@@ -1,0 +1,19 @@
+{
+  "name": "CR Recursos Humanos",
+  "short_name": "CR RH",
+  "description": "Consultoria em RH, recrutamento e seleção, benefícios e folha de pagamento em São Paulo.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1117",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

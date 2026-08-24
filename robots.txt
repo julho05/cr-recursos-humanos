@@ -1,0 +1,7 @@
+# robots.txt — CR Recursos Humanos
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Sitemap
+Sitemap: https://crassessoriarh.com.br/sitemap.xml

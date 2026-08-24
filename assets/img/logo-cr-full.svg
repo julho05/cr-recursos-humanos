@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="CR Recursos Humanos">
+  <defs>
+    <linearGradient id="fGold" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A8842A"/>
+      <stop offset=".45" stop-color="#C9A227"/>
+      <stop offset="1" stop-color="#EBD79B"/>
+    </linearGradient>
+  </defs>
+  <rect x="2.2" y="2.2" width="59.6" height="59.6" rx="15" fill="none" stroke="url(#fGold)" stroke-width="2.6"/>
+  <path d="M32.5 20H26a10 10 0 0 0-10 10v4a10 10 0 0 0 10 10h6.5" fill="none" stroke="url(#fGold)" stroke-width="5.4" stroke-linecap="round"/>
+  <path d="M36 44V20h7a6 6 0 0 1 0 12h-7m6.4 0L49 44" fill="none" stroke="url(#fGold)" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="78" y="30" font-family="Sora, Segoe UI, sans-serif" font-size="21" font-weight="700" letter-spacing="-0.5" fill="#FBFAF7">CR</text>
+  <text x="112" y="30" font-family="Sora, Segoe UI, sans-serif" font-size="21" font-weight="400" letter-spacing="-0.5" fill="#FBFAF7">Recursos Humanos</text>
+  <text x="78" y="47" font-family="Inter, Segoe UI, sans-serif" font-size="9.5" font-weight="500" letter-spacing="4.2" fill="#DCC172">CONSULTORIA EM RH</text>
+</svg>
